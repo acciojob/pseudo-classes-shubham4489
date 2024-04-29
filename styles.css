@@ -19,8 +19,8 @@ li{
 li:nth-child(odd){
 	background-color:white;
 }
-li:Third-to-last{
-	backgroud-color:pink;
+li:nth-of-type(3){
+	background-color:pink;
 }
 li:last-of-type{
 	font-size:22px;
